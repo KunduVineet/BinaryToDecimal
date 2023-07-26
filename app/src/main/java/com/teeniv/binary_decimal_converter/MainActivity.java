@@ -46,6 +46,7 @@ Toolbar toolbar;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //Defined all the ids here.
         txt1 = findViewById(R.id.txt1);
         TextView txt2 = findViewById(R.id.txt2);
         btn1 = findViewById(R.id.btn1);
